@@ -1,3 +1,6 @@
+
+new windows
+
 Maple's Vim config
 ==================
 
